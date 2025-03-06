@@ -1,2 +1,2 @@
 # Next_word
-next word prediction using recurrent neural network
+Recurrent Neural Network (RNN) using an LSTM (Long Short-Term Memory) model to perform next-word prediction based on a small text corpus
